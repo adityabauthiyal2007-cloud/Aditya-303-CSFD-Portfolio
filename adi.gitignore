@@ -1,0 +1,10 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system junk files
+Thumbs.db
+.DS_Store
+
+# Ignore logs and temporary files
+*.log
+*.tmp
